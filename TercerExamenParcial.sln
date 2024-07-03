@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{DF1EF16A-A6B6-4030-83B5-087180C42DA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{24EB9584-D10C-4A87-A625-D228432C8E5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{9845BDA5-2555-4152-B9D7-217318471C29}"
+	ProjectSection(SolutionItems) = preProject
+		Program.cs = Program.cs
+		ScriptSQL.sql = ScriptSQL.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1EF16A-A6B6-4030-83B5-087180C42DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1EF16A-A6B6-4030-83B5-087180C42DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1EF16A-A6B6-4030-83B5-087180C42DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1EF16A-A6B6-4030-83B5-087180C42DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EB9584-D10C-4A87-A625-D228432C8E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EB9584-D10C-4A87-A625-D228432C8E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EB9584-D10C-4A87-A625-D228432C8E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EB9584-D10C-4A87-A625-D228432C8E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B1CD466-E802-4C0B-95EE-EB84F9226EE6}
+	EndGlobalSection
+EndGlobal

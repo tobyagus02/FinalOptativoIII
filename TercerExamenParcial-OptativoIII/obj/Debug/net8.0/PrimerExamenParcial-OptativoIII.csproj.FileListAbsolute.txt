@@ -1,0 +1,5 @@
+C:\Users\tobia\source\repos\PrimerExamenParcial-OptativoIII\PrimerExamenParcial-OptativoIII\obj\Debug\net8.0\PrimerExamenParcial-OptativoIII.csproj.AssemblyReference.cache
+C:\Users\tobia\source\repos\PrimerExamenParcial-OptativoIII\PrimerExamenParcial-OptativoIII\obj\Debug\net8.0\PrimerExamenParcial-OptativoIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\source\repos\PrimerExamenParcial-OptativoIII\PrimerExamenParcial-OptativoIII\obj\Debug\net8.0\PrimerExamenParcial-OptativoIII.AssemblyInfoInputs.cache
+C:\Users\tobia\source\repos\PrimerExamenParcial-OptativoIII\PrimerExamenParcial-OptativoIII\obj\Debug\net8.0\PrimerExamenParcial-OptativoIII.AssemblyInfo.cs
+C:\Users\tobia\source\repos\PrimerExamenParcial-OptativoIII\PrimerExamenParcial-OptativoIII\obj\Debug\net8.0\PrimerExamenParcial-OptativoIII.csproj.CoreCompileInputs.cache
